@@ -32,11 +32,7 @@ You can find the apk file here...Classifieds\app\build\outputs
 Install the apk in a device and make sure to give storage and camera 
 permissions.
 
-SERVER
 
-IP:192.168.60.27
-username: iiitb
-password: Th@nk$@#123
 
 HTTP servlet: apache-tomcat-9.0.0.M22
 IDE: Eclipse neon.3 with maven
@@ -52,4 +48,3 @@ Setup the Tomcat server in eclipse and run the project on it.
 Database: mySQL
 Access database from terminal commands:
 $ mysql -u root -p
-Enter password: password
